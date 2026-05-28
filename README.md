@@ -19,5 +19,9 @@ A few pinned projects are on my profile, but one of my favorites so far is my Bl
 
 Outside of coding, I enjoy building things, exploring new technologies, and figuring out how different systems work together.
 
+![Verilog](https://shields.io)
+
+
+
 
 
