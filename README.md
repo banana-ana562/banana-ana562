@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**banana-ana562/banana-ana562** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ana, an aspiring Embedded Systems Engineer based in California.
 
-Here are some ideas to get you started:
+I enjoy building robotics and autonomous systems that combine embedded software with real-world hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my experience has been in Embedded C/C++, bare-metal development, and low-level hardware interfacing. I've worked with communication protocols such as UART, I2C, SPI, BLE, and FreeRTOS.
+
+I like working on projects where I can design, build, debug, and continuously improve systems hands-on.
+
+I have a few pinned projects, but one of my favorites so far is my bluetooth-controlled car 🚙
+
+I'm also interested in working across different engineering disciplines and enjoy learning about topics related to mechanical and electrical engineering.
+
+Outside of coding, I enjoy building things, learning new technologies, and exploring how different systems work together.
+
+
