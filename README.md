@@ -19,9 +19,8 @@ A few pinned projects are on my profile, but one of my favorites so far is my Bl
 
 Outside of coding, I enjoy building things, exploring new technologies, and figuring out how different systems work together.
 
-![Verilog](https://shields.io)
-
-
-
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge\&logoColor=white)
 
 
